@@ -1,3 +1,11 @@
+# blackroad-os-lucidia
+
+> Conversational AI with memory and empathy (a heart) using simple sentiment analysis and persistent memory
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 > ⚗️ **Research Repository**
 >
 > This is an experimental/research repository. Code here is exploratory and not production-ready.
